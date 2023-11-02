@@ -36,7 +36,7 @@ const handlePrevPage = () =>{
     <>
       <header>
         <img
-          src="../src/assets/logoRick.png"
+          src="../assets/logoRick.png"
           alt="rick et morty logo"
           className="m-auto w-56"
         />
